@@ -15,7 +15,7 @@
         android:layout_marginTop="70dp"
         android:text="Sign In"
         android:textSize="30sp" />
-
+//This is a new line
     <EditText
         android:id="@+id/editText6"
         android:layout_width="wrap_content"
